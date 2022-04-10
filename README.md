@@ -7,6 +7,10 @@
 </a>  
 </div>  
 
+<div align="center">
+  <img alt="webstorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
+  </div>
+
 - 🔭 I’m currently working on **becoming a front end developer**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
@@ -15,5 +19,6 @@
 
 - 📫 How to reach me **lvanmierlo@protonmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <img src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" alt="webstorm" width="40" height="40"/> </p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nostromosteacup&show_icons=true&theme=vue" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostromosteacup&layout=compact" />
+
