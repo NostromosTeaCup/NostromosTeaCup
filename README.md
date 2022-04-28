@@ -1,3 +1,4 @@
+<img src="https://i.postimg.cc/hvf9745T/Black-Minimal-Nostromos-Teacup.png" alt="Black-Minimal-Nostromos-Teacup-header" border="0">
 <h1 align="center">Hi 👋, I'm Linda</h1>
 <h3 align="center">A passionate frontend developer student from the Netherlands</h3>
 
@@ -20,6 +21,6 @@
 
 - 📫 How to reach me **lvanmierlo@protonmail.com**
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nostromosteacup&show_icons=true&theme=vue" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostromosteacup&layout=compact" />
+<div><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nostromosteacup&show_icons=true&theme=vue" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostromosteacup&layout=compact" /></div>
 
