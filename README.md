@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/hvf9745T/Black-Minimal-Nostromos-Teacup.png" alt="Black-Minimal-Nostromos-Teacup-header" border="0">
 <h1 align="center">Hi 👋, I'm Linda</h1>
-<h3 align="center">A passionate frontend developer student from the Netherlands</h3>
+<h3 align="center">Frontend developer student from the Netherlands</h3>
 
 <div align="center">
 <a href="https://linkedin.com/in/linda-van-mierlo" target="_blank">
