@@ -21,6 +21,6 @@
 
 - 📫 How to reach me **lvanmierlo@protonmail.com**
 
-<div><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nostromosteacup&show_icons=true&theme=vue" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostromosteacup&layout=compact" /></div>
+<div><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nostromosteacup&show_icons=true&theme=aura" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostromosteacup&theme=aura&layout=compact" /></div>
 
