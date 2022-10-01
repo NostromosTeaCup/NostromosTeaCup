@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **becoming a front end developer**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **React**
 
 - ⚡ Fun fact **becoming a Gundam Pilot is my dreamjob!**
 
