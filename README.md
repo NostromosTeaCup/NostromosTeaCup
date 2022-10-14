@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/hvf9745T/Black-Minimal-Nostromos-Teacup.png" alt="Black-Minimal-Nostromos-Teacup-header" border="0">
 <h1 align="center">Hi 👋, I'm Linda</h1>
-<h3 align="center">Frontend developer student from the Netherlands</h3>
+<h3 align="center">I love building worlds with code</h3>
 
 <div align="center">
 <a href="https://linkedin.com/in/linda-van-mierlo" target="_blank">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
   </div>
 
-- 🔭 I’m currently working on **becoming a front end developer**
+- 🔭 I’m currently working on **becoming better at code**
 
 - 🌱 I’m currently learning **React**
 
