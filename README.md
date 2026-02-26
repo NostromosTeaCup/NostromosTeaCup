@@ -9,11 +9,9 @@
 </div>  
 
 <div align="center">
-  <img alt="webstorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black"/> 
-  
-  <img alt="adobexd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /> <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
+  <br>
+  <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B"/> <img alt="GameMaker" src="https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff"/>
+
   </div>
 
 - 🔭 I’m currently working on **my first game**
@@ -23,7 +21,4 @@
 - ⚡ Fun fact **becoming a Gundam Pilot is my dreamjob!**
 
 - 🌅 During the day I'm a **Marketing consultant for Dutch authors**
-
-<div><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nostromosteacup&show_icons=true&theme=aura" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostromosteacup&theme=aura&layout=compact" /></div>
 
