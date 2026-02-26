@@ -16,13 +16,13 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
   </div>
 
-- 🔭 I’m currently working on **becoming better at code**
+- 🔭 I’m currently working on **my first game**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Gamemaker**
 
 - ⚡ Fun fact **becoming a Gundam Pilot is my dreamjob!**
 
-- 📫 How to reach me **lvanmierlo@protonmail.com**
+- 🌅 During the day I'm a **Marketing consultant for Dutch authors**
 
 <div><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nostromosteacup&show_icons=true&theme=aura" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostromosteacup&theme=aura&layout=compact" /></div>
