@@ -10,13 +10,13 @@
 
 <div align="center">
   <br>
-  <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B"/> <img alt="GameMaker" src="https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff"/>
+  <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B"/> <img alt="GameMaker" src="https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff"/> <img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">
 
   </div>
 
 - 🔭 I’m currently working on **my first game**
 
-- 🌱 I’m currently learning **Gamemaker**
+- 🌱 I’m currently learning **making games**
 
 - ⚡ Fun fact **becoming a Gundam Pilot is my dreamjob!**
 
