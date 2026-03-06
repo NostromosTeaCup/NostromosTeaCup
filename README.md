@@ -14,9 +14,23 @@
 
   </div>
 
-- 🔭 I’m currently working on **my first game**
+<div align="center">
+<br>
+  Languages I'm familiar with:<br>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
+  <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">
+</div>
+<br>
+<div align="center">
+  Language I'm learning:<br>
+  <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
+</div>
 
-- 🌱 I’m currently learning **C#**
+- 🔭 I’m currently working on **my first game**
 
 - ⚡ Fun fact **becoming a Gundam Pilot is my dreamjob!**
 
