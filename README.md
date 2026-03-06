@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **my first game**
 
-- 🌱 I’m currently learning **making games**
+- 🌱 I’m currently learning **C#**
 
 - ⚡ Fun fact **becoming a Gundam Pilot is my dreamjob!**
 
